@@ -1,0 +1,32 @@
+C:\Users\AHMED EL BASAL\source\repos\CommandDesignPattern\CommandDesignPattern\bin\Debug\net5.0\CommandDesignPattern.exe
+C:\Users\AHMED EL BASAL\source\repos\CommandDesignPattern\CommandDesignPattern\bin\Debug\net5.0\CommandDesignPattern.deps.json
+C:\Users\AHMED EL BASAL\source\repos\CommandDesignPattern\CommandDesignPattern\bin\Debug\net5.0\CommandDesignPattern.runtimeconfig.json
+C:\Users\AHMED EL BASAL\source\repos\CommandDesignPattern\CommandDesignPattern\bin\Debug\net5.0\CommandDesignPattern.runtimeconfig.dev.json
+C:\Users\AHMED EL BASAL\source\repos\CommandDesignPattern\CommandDesignPattern\bin\Debug\net5.0\CommandDesignPattern.dll
+C:\Users\AHMED EL BASAL\source\repos\CommandDesignPattern\CommandDesignPattern\bin\Debug\net5.0\ref\CommandDesignPattern.dll
+C:\Users\AHMED EL BASAL\source\repos\CommandDesignPattern\CommandDesignPattern\bin\Debug\net5.0\CommandDesignPattern.pdb
+C:\Users\AHMED EL BASAL\source\repos\CommandDesignPattern\CommandDesignPattern\obj\Debug\net5.0\CommandDesignPattern.csprojAssemblyReference.cache
+C:\Users\AHMED EL BASAL\source\repos\CommandDesignPattern\CommandDesignPattern\obj\Debug\net5.0\CommandDesignPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AHMED EL BASAL\source\repos\CommandDesignPattern\CommandDesignPattern\obj\Debug\net5.0\CommandDesignPattern.AssemblyInfoInputs.cache
+C:\Users\AHMED EL BASAL\source\repos\CommandDesignPattern\CommandDesignPattern\obj\Debug\net5.0\CommandDesignPattern.AssemblyInfo.cs
+C:\Users\AHMED EL BASAL\source\repos\CommandDesignPattern\CommandDesignPattern\obj\Debug\net5.0\CommandDesignPattern.csproj.CoreCompileInputs.cache
+C:\Users\AHMED EL BASAL\source\repos\CommandDesignPattern\CommandDesignPattern\obj\Debug\net5.0\CommandDesignPattern.dll
+C:\Users\AHMED EL BASAL\source\repos\CommandDesignPattern\CommandDesignPattern\obj\Debug\net5.0\ref\CommandDesignPattern.dll
+C:\Users\AHMED EL BASAL\source\repos\CommandDesignPattern\CommandDesignPattern\obj\Debug\net5.0\CommandDesignPattern.pdb
+C:\Users\AHMED EL BASAL\source\repos\CommandDesignPattern\CommandDesignPattern\obj\Debug\net5.0\CommandDesignPattern.genruntimeconfig.cache
+C:\Users\AHMED EL BASAL\source\repos\Command pattern\Ahmed_Elbassal_Lab2AndVideo\Command PatternVideo+ solution report\CommandDesignPattern\CommandDesignPattern\bin\Debug\net5.0\CommandDesignPattern.exe
+C:\Users\AHMED EL BASAL\source\repos\Command pattern\Ahmed_Elbassal_Lab2AndVideo\Command PatternVideo+ solution report\CommandDesignPattern\CommandDesignPattern\bin\Debug\net5.0\CommandDesignPattern.deps.json
+C:\Users\AHMED EL BASAL\source\repos\Command pattern\Ahmed_Elbassal_Lab2AndVideo\Command PatternVideo+ solution report\CommandDesignPattern\CommandDesignPattern\bin\Debug\net5.0\CommandDesignPattern.runtimeconfig.json
+C:\Users\AHMED EL BASAL\source\repos\Command pattern\Ahmed_Elbassal_Lab2AndVideo\Command PatternVideo+ solution report\CommandDesignPattern\CommandDesignPattern\bin\Debug\net5.0\CommandDesignPattern.runtimeconfig.dev.json
+C:\Users\AHMED EL BASAL\source\repos\Command pattern\Ahmed_Elbassal_Lab2AndVideo\Command PatternVideo+ solution report\CommandDesignPattern\CommandDesignPattern\bin\Debug\net5.0\CommandDesignPattern.dll
+C:\Users\AHMED EL BASAL\source\repos\Command pattern\Ahmed_Elbassal_Lab2AndVideo\Command PatternVideo+ solution report\CommandDesignPattern\CommandDesignPattern\bin\Debug\net5.0\ref\CommandDesignPattern.dll
+C:\Users\AHMED EL BASAL\source\repos\Command pattern\Ahmed_Elbassal_Lab2AndVideo\Command PatternVideo+ solution report\CommandDesignPattern\CommandDesignPattern\bin\Debug\net5.0\CommandDesignPattern.pdb
+C:\Users\AHMED EL BASAL\source\repos\Command pattern\Ahmed_Elbassal_Lab2AndVideo\Command PatternVideo+ solution report\CommandDesignPattern\CommandDesignPattern\obj\Debug\net5.0\CommandDesignPattern.csproj.AssemblyReference.cache
+C:\Users\AHMED EL BASAL\source\repos\Command pattern\Ahmed_Elbassal_Lab2AndVideo\Command PatternVideo+ solution report\CommandDesignPattern\CommandDesignPattern\obj\Debug\net5.0\CommandDesignPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AHMED EL BASAL\source\repos\Command pattern\Ahmed_Elbassal_Lab2AndVideo\Command PatternVideo+ solution report\CommandDesignPattern\CommandDesignPattern\obj\Debug\net5.0\CommandDesignPattern.AssemblyInfoInputs.cache
+C:\Users\AHMED EL BASAL\source\repos\Command pattern\Ahmed_Elbassal_Lab2AndVideo\Command PatternVideo+ solution report\CommandDesignPattern\CommandDesignPattern\obj\Debug\net5.0\CommandDesignPattern.AssemblyInfo.cs
+C:\Users\AHMED EL BASAL\source\repos\Command pattern\Ahmed_Elbassal_Lab2AndVideo\Command PatternVideo+ solution report\CommandDesignPattern\CommandDesignPattern\obj\Debug\net5.0\CommandDesignPattern.csproj.CoreCompileInputs.cache
+C:\Users\AHMED EL BASAL\source\repos\Command pattern\Ahmed_Elbassal_Lab2AndVideo\Command PatternVideo+ solution report\CommandDesignPattern\CommandDesignPattern\obj\Debug\net5.0\CommandDesignPattern.dll
+C:\Users\AHMED EL BASAL\source\repos\Command pattern\Ahmed_Elbassal_Lab2AndVideo\Command PatternVideo+ solution report\CommandDesignPattern\CommandDesignPattern\obj\Debug\net5.0\ref\CommandDesignPattern.dll
+C:\Users\AHMED EL BASAL\source\repos\Command pattern\Ahmed_Elbassal_Lab2AndVideo\Command PatternVideo+ solution report\CommandDesignPattern\CommandDesignPattern\obj\Debug\net5.0\CommandDesignPattern.pdb
+C:\Users\AHMED EL BASAL\source\repos\Command pattern\Ahmed_Elbassal_Lab2AndVideo\Command PatternVideo+ solution report\CommandDesignPattern\CommandDesignPattern\obj\Debug\net5.0\CommandDesignPattern.genruntimeconfig.cache
